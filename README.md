@@ -27,10 +27,10 @@ Process
 
 This project demonstrates my ability to work with large datasets, perform data cleaning and transformation, and create interactive dashboards using Power BI. The final product is a powerful tool for analyzing Amazon Prime Titles data, providing valuable insights in a visually appealing and user-friendly manner.
 
-##This is the link to the published dashboard:
+## This is the link to the published dashboard:
 https://app.powerbi.com/groups/me/reports/0b33b7a6-4a9b-4aaa-99eb-abc30da5f439/700de9736a259c823083?experience=power-bi
 
-##Screenshot of Dashboard:
+## Screenshot of Dashboard:
 <img width="1179" alt="Screenshot 2024-08-28 at 1 20 54 PM" src="https://github.com/user-attachments/assets/b143f8ff-5a35-47df-ac11-7cd93e2ab3e5">
 
 
