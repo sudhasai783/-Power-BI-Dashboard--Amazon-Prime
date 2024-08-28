@@ -6,14 +6,14 @@ In this project, I utilized the **Amazon Prime Titles** dataset, sourced from Ka
 
 ## Process
 
-1.**Data Loading and Preparation:**
+- **Data Loading and Preparation:**
     - Imported the Amazon Prime Titles dataset into Power BI.
     - Conducted data cleaning and transformation to ensure accuracy and consistency.
     - Addressed any missing values, standardized data formats, and removed duplicates.
-2. **Data Visualization:**
+- **Data Visualization:**
     - Created various visualizations, including bar charts, pie charts, line graphs, and tables to showcase key metrics such as genre distribution, release year trends, and title ratings.
     - Employed advanced Power BI visualization tools to enhance data representation and clarity.
-3. **Interactive Dashboard:**
+- **Interactive Dashboard:**
     - Designed an interactive dashboard that allows users to explore the dataset through dynamic filtering and drill-down capabilities.
     - Integrated slicers and cross-highlighting features to enable users to interact with the data and gain deeper insights.
 
